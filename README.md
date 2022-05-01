@@ -1,1 +1,3 @@
-# semeval_2022_task2_sub_a
+# Code for SemEval 2022, Task 2 Subtask A
+
+Here we show how we built a BERT + LSTM pipeline to enhance the text classification performance
